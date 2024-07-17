@@ -1,0 +1,75 @@
+-> What is Machine Learning?
+
+Machine Learning is a feild of computer science that uses a statistical technique to give computer systems the ability to learn with data, without being explicted programming.
+
+In Simple words Machine learning is all about Learning from data.
+
+-> What is Explict programming?
+
+In Explict Programming we have to write code of every single scenario to handle this scenario.
+
+
+-> Uses of ML:
+
+We have many scenarios but we can't write code in these scenarios. So in these scenarios we use Machine Learning.
+
+1) Email Spam:
+
+Like a CEO asign you the task to identify wether the email is spam or not. What you did?
+
+You write many patterns to handle the situation like you write many If-Else conditions like if there are 3 discounts and 3 huge words in the email. Then it is spam.
+
+But just think if any advertising company know your patterns then may be if they use massive instead of huge then your pattern not send this mail to spam. 
+
+Because you are not right the condition in it. So then you have to modify your code like rewrite your logics.
+
+-> But in Machine learning since we learn from data then if the data changes then your algorithm handle all the situtation by itself. 
+
+It will made the logic by itself. And that's the beauty of Machine Learning.
+
+2) Image Classifications
+
+Imagine a client asked you to write a program to check wether the given animal is dog or not.
+
+As you know we have different breeds of dog so will you write every condition to fullfill the scenario? We can't
+
+-> So in these scenarios we use Machine Learning becuase we learn from data as the human beings learn.
+
+
+
+What is Data Analysis?
+
+Data Analysis is the process where we find the hidden information or useful insights from data by plotting graphs or anything else. 
+
+Like : Predicting weather , Trading and Bitcoin price.
+
+But sometime we can't find the useful insights by just plotting graphs.
+
+
+What is data mining?
+
+Like if we want to create a email span identifier you will apply an algorithm on data and this algorithm should identify the data and give you the output.
+
+In simple words we create a prediction model.	
+
+Then you should go and check the ML model and check that ML model follow which patterns to check wether the email is spam or not.
+
+And this is called Data Mining. Like extract information very deeply and maybe extract information by using ML patterns.
+
+So that's why ML is very important. So that's for Data Mining Machine Learning is the best tool.
+
+
+History of ML:
+
+As ML are in industry for a very long time but no body knows about ML.
+
+Why peoples don't know about ML?
+
+Bcz for ML we need data and for processing we need algoirthm that our Machine not handle.
+
+Let's suppose if we have data but not a good hardware then this data is nothing.
+
+So when the internet comes we will create many data in just one year 2016. Like data from the start of the world to 2015 are only create in 2016.
+
+So then ML graph starting up.
+
