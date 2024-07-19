@@ -1,1 +1,14 @@
-Machine Learning?
+-> What is Data Frame?
+
+A data frame is like a table in which you can organize and store data. It has rows and columns, where:
+
+Each column represents a different type of data (e.g., names, ages, scores).
+
+Each row represents a single data entry (e.g., one person's details across different columns).
+
+In programming, data frames are used to handle and manipulate data efficiently, especially in languages like Python (using pandas) and R.
+
+
+What is AI Artificial Intelligence?
+
+AI means Artificial Intelligence. It means putting Intelligence in the Machines.
