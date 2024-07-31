@@ -12,3 +12,37 @@ In programming, data frames are used to handle and manipulate data efficiently, 
 What is AI Artificial Intelligence?
 
 AI means Artificial Intelligence. It means putting Intelligence in the Machines.
+
+What is Intelligence?
+
+In Machines there would be pattern interlligence or pattern recognization. What it means? It means machines only recognize patterns.
+
+They have not feelings and other things.
+
+After 1950:
+
+The scientists started thinking about how to put intelligence in machines.They build symbolic Ai. Symbolic Ai means putting If else conditions and make a huge system.
+
+Expert System 
+
+Like Chess System. Like Lunger Cancer Disease Detection
+
+But if uh want to give an image to this Ai and said them to recognize dog from it. It will fail. How fail? Because there are so many breeds of dogs.
+
+And if uh write if else code for all breeds its like impossible.
+
+Then ML comes. In ML you just give data to the system and it will create logics by itself. And it will recognize the patterns byitself from this data.
+
+That is the main use of ML. Many peoples says that ML are statistic base but it's not true properly its limited statistic but we mostly do coding in it.
+
+Deep Learning is nothing it's all about ML . Like we give data to DL and algorithm recognize the patterns and give us predictions. 
+
+But the main difference is the algorithms of DL are different from ML. Many peoples said that DL work same as our brain works but its totally false.
+
+Deep Leaning is the mathematical model but the smallest unit of Dl neuron are based on biological neuron.
+
+But the neuronic system of the DL are slightly attached with our brain.
+
+There are certain ways that ML can't do much efficient but DL do that. Like in image classifications we have to provide the it is dog. it is cat.
+
+But in DL model featured it by it self.
