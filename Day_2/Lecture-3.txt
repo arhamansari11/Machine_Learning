@@ -1,0 +1,20 @@
+Types of ML 
+
+There are many types of ML but main are 4:
+
+1 -> Supervised Machine Learning 
+
+	i  -> Regression
+	ii -> Classification
+	
+2 -> UnSupervised Machine Learing
+
+	i  -> Clustering 
+	ii -> Dimensionality Reduction
+	iii -> Anomal Reduction
+	iv -> Association Learning
+
+
+3 -> Semi Supervised
+4 -> Reinforcement
+
