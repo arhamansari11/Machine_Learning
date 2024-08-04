@@ -11,8 +11,8 @@ There are many types of ML but main are 4:
 
 	i  -> Clustering 
 	ii -> Dimensionality Reduction
-	iii -> Anomal Reduction
-	iv -> Association Learning
+	iii -> Anomaly Detection
+	iv -> Association Rule Learning
 
 
 3 -> Semi Supervised
@@ -71,4 +71,48 @@ Then we use Regression Model there.
 
 
 2-> UnSupervised Machine Learning
+
+UnSupervised Machine Learning is quite opposite from Supervised Machine Learning.
+
+In UnSupervised Machine Learning we only have input we don't have output. It means Prediction is not possible.
+
+So we may work with Clustering , Anomoly Detection , Dimensionally Reduction or Associate Rule Learning
+
+i -> Clustering
+
+Let's suppose we have dataset of 5000 students.
+
+IQ	CGPA	Output / Label
+
+80	9.8	0
+43	1.3	1
+54	6.4	2
+
+In the Clustering, I grouping the IQ OR CGPA and label the data according to me for Supervised ML like 0 if both are ok , 1 if IQ is less and 2 if both are less.
+
+In simple words I caterized the data.
+
+Clustering is very useful in today's industries.
+
+ii -> Dimensionally Reduction
+
+In simple terms, dimensionality reduction involves reducing the number of columns in a dataset like 2 columns to 1 columns or 3 columns to 1 columns for better use.
+
+Let's suppose we have a dataset that has more than 1000 columns so our algorithm works very slowly on this dataset. 
+
+If we want add more columns in it. It's very difficult for us to add. So in this scenerio we use Dimensionally Reduction.
+
+For Example :
+
+We have a dataset of house in which we have 3 columns , No of rooms , No of bathrooms and No of Kitchens. So in these scenerio we have to predict the prize of house.
+
+So if we concatenate all the 3 columns to one by squrefit area like we create a new columns from the existing columns. It's called Feature Selection.
+
+So we create a new columns by given multiple columns since no of columns reduced. Then its called Dimensionally Reduction.
+
+There is an algorithm called PCA we will work on Principal component analysis (PCA) in future.
+
+iii -> Anomoly Detection
+
+
 
