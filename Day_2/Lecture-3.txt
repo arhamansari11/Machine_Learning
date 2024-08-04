@@ -114,5 +114,10 @@ There is an algorithm called PCA we will work on Principal component analysis (P
 
 iii -> Anomoly Detection
 
+Anomaly detection, also known as outlier detection, is the process of identifying data points, events, or patterns that
+
+deviate significantly from the expected behavior of a dataset. 
+
+These anomalies can indicate critical issues, such as technical faults, fraudulent activities, or changes in system behavior. 
 
 
