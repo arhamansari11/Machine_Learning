@@ -120,4 +120,30 @@ deviate significantly from the expected behavior of a dataset.
 
 These anomalies can indicate critical issues, such as technical faults, fraudulent activities, or changes in system behavior. 
 
+iv -> Associate Rule Learning
 
+Association Rule Learning is a method in data mining that identifies interesting relationships (associations) between variables in large datasets. 
+ 
+The primary goal is to discover hidden patterns and correlations that can be useful for decision-making. 
+
+This method is widely used in market basket analysis, where it helps in finding product associations that frequently occur together in transactions.
+
+3-> Semi Supervised Machine Learning
+
+It is partially Supervised and partially UnSupervised Machine Learning.
+
+Labeling is very difficult like creating output from the data. It reuires many human hours to right.
+
+But then the peoples thinks what if we don't need to label all the data like we only label 3 or 4 input columns and others get automatically labeled.
+
+For example: Google Photos if we give data to google photos it grouping the data like seperate the image on person and the other person and then ask you to name this.
+
+If we name this it will automatically labeled the remaining data.
+
+4 -> Reinforcement 
+
+In these scenerio we don't have any data. In this your algorithm start learning from scratch like us human beings.
+
+There a company called Deep mind. They made agents. Go game , Alpha go they beat the world champion straight in the 4 games.
+
+We give -points if the scenerio is wrong and reward if the scenerio is right.
