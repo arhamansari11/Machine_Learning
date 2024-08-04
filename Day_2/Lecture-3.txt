@@ -1,4 +1,4 @@
-Types of ML 
+	Types of ML 
 
 There are many types of ML but main are 4:
 
@@ -17,4 +17,58 @@ There are many types of ML but main are 4:
 
 3 -> Semi Supervised
 4 -> Reinforcement
+
+Types of Data:
+
+We have 2 types of Data:
+
+-> Numerical    
+
+Age , IQ , CGPA , Weight
+
+-> Categorical
+
+Gender , Nationality 
+
+
+1 -> Supervised Machine Learning
+
+Machine Learning is all about Learning from data. So, If in data you have both input and output but you want to find the realtion between them.
+
+So for the new input you will tell the output. So this learning is called Supervised Machine Learning.
+
+Lets suppose we have data of 5000 students.
+
+Iq	CGPA	Placement(y / n)
+
+76	7.8	Yes
+84	8.1	Yes
+56	6.3	No
+
+So in this data set we have both input and output. From this dataset our ML model recognize the main relationship between the input and output for future use.
+
+Note :  We use mostly Supervised Machine Learning ahead.
+
+i-> Regression
+
+Let's suppose we have a Supervised ML problem. It means in the dataset we have both input and output columns.
+
+We just have to check that wether the output column is numerical or categorical. If column is numerical then we use Regression model there.
+
+i-> Classification
+
+Let's suppose we have a Supervised ML problem. It means in the dataset we have both input and output columns.
+
+We just have to check that wether the output column is numerical or categorical. If column is catergorical then we use Classification model there.
+
+For Example: 
+
+->  If we have a dateset where all the info of the house is stored like how many rooms , bathrooms and kitchens and in the output we have house pize. 
+
+Then we use Regression Model there.
+
+->  As we dicussed before about the dataset of students. It will be the example of Classification model.
+
+
+2-> UnSupervised Machine Learning
 
