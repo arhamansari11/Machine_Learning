@@ -1,0 +1,34 @@
+What is Production?
+
+Production is basically the server on which your code is going to run.
+
+Developement Enviornment:
+
+When we code then it's called developement enviornment.
+
+Production Enviornment:
+
+When we deploy our code. Then it's called production enviornemnt.
+
+Batch Machine Learning:
+
+In Batch Machine Learning you train the model by all data. It means you don't train the model in chunks of data. We train the model by all data.
+
+Batch Machine Learning is also called Ofline Machine Learning.
+
+In Ofline Machine Learning we train our model ofline in our Machine. And then when the model will train we let them go to the produciton enviornment.
+
+There is a problem that our model is static. It means our model learn once. Then it will work on the previous problem.
+
+For example:
+
+We train our model on netflix recomendation system. But the netflix are adding new movies every week. So we have to re train our model on that.
+
+So this is the main disadvantage of the Ofline or Batch Machine Learning is we have to re train our model again and again then we have to deploy it.
+
+Main Disadvantages of Machine Learning
+
+1-> Lots of Data   -> If we have a lots of data and our code don't pulled it so it will not train. As we have to train the data at once.
+2-> Hardware Limitation 
+3-> Availability -> News update after 24 hours
+
