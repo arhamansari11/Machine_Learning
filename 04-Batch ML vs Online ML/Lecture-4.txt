@@ -1,0 +1,19 @@
+What is Production?
+
+Production is basically the server on which your code is going to run.
+
+Developement Enviornment:
+
+When we code then it's called developement enviornment.
+
+Production Enviornment:
+
+When we deploy our code. Then it's called production enviornemnt.
+
+Batch Machine Learning:
+
+In Batch Machine Learning you train the model by all data. It means you don't train the model in chunks of data. We train the model by all data.
+
+Batch Machine Learning is also called Ofline Machine Learning.
+
+In Ofline Machine Learning we train our model ofline in our Machine. And then when the model will train we let them go to the produciton enviornment.
