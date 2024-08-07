@@ -39,3 +39,13 @@ So in scenerior where nature of the problem change very fastly so you have to us
 ii-> Cost Effective	It's too much cost effective as compared to batch machine learning
 
 iii-> Faster Solution  Since we give data in small batches so its faster.
+
+In Scikit learning module there are certain algorithms that allows you to increamentally increase your data.
+
+SGDRessor() is the varient of Linear Regression. SGDRessor() algorithm is same as Linear Regression Model
+
+Popular Libraries :
+
+1-> River
+
+2-> Scikit Learn
