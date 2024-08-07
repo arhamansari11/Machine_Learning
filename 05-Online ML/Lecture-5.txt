@@ -48,4 +48,51 @@ Popular Libraries :
 
 1-> River
 
+https://riverml.xyz/dev/
+
 2-> Scikit Learn
+
+3-> VOWPAL WABBIT
+
+https://vowpalwabbit.org/
+
+-> Learning Rate:
+
+Learning Rate means How frequenlty you train on your data.Like data is come very consistently but it depends on you how frequent you train your model.
+
+You can't do this that you train your model on every single incoming point. When you do this then your model train very fastly and forgent the previous things.
+
+So you could not like that forget the previous things and remember the new things. And also you can't want to learn very slowly.
+
+So you have to fix the learning rate. Then your model learn the new things and remember the previous things.
+
+So fix the learning point in the online learning for your bussiness is very difficult work.
+
+So if you can't do this then your model can't do the work you are looking for or maybe they misbehave. 
+
+So learning rate is the tricky thing.
+
+
+-> Out of Core Learning
+
+Let's suppose we have a large dataset. We cannot load this huge dataset in our system at once in batch learning.
+
+Like we have ram of 8gb and we have dataset of 50gb we can't load this data in our system or trainin is to impossible.
+
+So in these scenerios we use Online Machine Learning by providing sequentlly data. 
+
+In Simple Words , in out of core learning we train the model ofline but we train the model in chunks of data.
+
+->  Disadvantages
+
+i-> Tricky to use
+
+Tricky in the sense that train the model is not very difficult but it's very difficult that it gives the require output you expect.
+
+Maybe due to learning rate. Maybe due to speed of data. Different things.
+
+ii-> Risky
+
+Like we train data online. Let's suppose if data wrong data come. What you do?
+
+But yup there would be a solution you may put the anomly algorithm there that detects the unrelative changings and ofline the server at time.
