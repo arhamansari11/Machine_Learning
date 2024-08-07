@@ -1,0 +1,41 @@
+Have you ever listen that a company told that you use our product more the performance of our product will be better more and more.
+
+Like according to useability the performance of our product will be better more and more.
+
+Many companies are talking about Online Machine Learning.
+
+It means they train there model according to it like on the way on the server there model improve by new data.
+
+Online machine learning refers to a model training approach where the algorithm learns from data in a sequential manner, updating its knowledge as new data arrives. 
+
+Unlike traditional batch learning, which requires the entire dataset to be processed at once, online learning processes data incrementally. 
+
+This is particularly useful for situations where data is too large to fit into memory, or when the data is constantly changing and needs to be updated in real-time.
+
+Real-time Recommendation Systems:
+
+Platforms like Netflix or Amazon use online machine learning to update recommendations in real-time based on user interactions and preferences. 
+
+As users watch movies or browse products, the system continuously adapts and improves its recommendations.
+
+Spam Detection:
+
+Email services such as Gmail use online learning to classify incoming emails as spam or not spam. 
+
+The system updates its model with new data about spam and non-spam emails to improve accuracy over time.
+
+When to use?	
+
+i-> Where there is a concept drift	
+
+What is concept drift?
+
+You made a machine learning model to solve a problem but the nature of the problem change again and again.
+
+Like : Stock Market and E-commmerce store -> Seasons , Sales
+
+So in scenerior where nature of the problem change very fastly so you have to use Online learning there.
+
+ii-> Cost Effective	It's too much cost effective as compared to batch machine learning
+
+iii-> Faster Solution  Since we give data in small batches so its faster.
