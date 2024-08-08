@@ -1,1 +1,26 @@
-06-Instance-Based Vs Model-Based Learning
+Machine Learning Model train data in two forms.
+
+There are two ways to train our model that is:
+
+i -> Memorizing
+
+ii -> Generalization
+
+In memorizing our algorithm memorize all the data and works according to them. This is called Instance Based Learning.
+
+In Generalization our algorithm underline the concept behind them. This is called Model Based Learning.
+
+
+-> Instance Based Learning
+
+iq	cgpa	placement (yes / no)
+
+8	80	y
+7	7.5	n
+
+It gives result according to their neighbours.
+
+There is not concept of training and learning in Instance based learning.
+
+We mostly use KNN (K nearest Neighbour) Algorithm in Instance Based Learning.
+
