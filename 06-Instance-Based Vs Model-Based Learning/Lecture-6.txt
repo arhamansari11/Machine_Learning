@@ -24,3 +24,6 @@ There is not concept of training and learning in Instance based learning.
 
 We mostly use KNN (K nearest Neighbour) Algorithm in Instance Based Learning.
 
+Model-based machine learning refers to a type of machine learning approach where the learning process involves constructing and training a model based on the data. 
+
+The goal is to create a model that can make predictions or decisions based on input data.
