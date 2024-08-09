@@ -1,1 +1,3 @@
 Challenges in Machine Learning
+
+i -> Data Collection.
