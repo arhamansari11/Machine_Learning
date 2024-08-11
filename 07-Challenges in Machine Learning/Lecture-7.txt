@@ -1,5 +1,96 @@
-Challenges in Machine Learning
+Challenges in Machine Learning.
+
+There are 8 Major Challenges in Machine Learning that you will face in your career.
 
 i -> Data Collection.
 
 Machine Learning is all about learning from data. So if we have not data how we train our model?
+
+So if we have not data what's the point?
+
+If we have not radimate data. Then we may perform 2 steps.
+
+a -> Fetch Data from API
+
+b -> Web Scrapping
+
+Note: They may issue some error while gathering data from them. It's a difficult task.
+
+ii -> Insufficient Data / Labeled Data.
+
+Let's Suppoose we have two algorithms working on the same problem but the amout of data is different.
+
+Algorithm A is much better than algorithm B.
+
+A		B
+
+100 Rows	10 Lakh Rows
+
+M1		M2
+
+A company realizes if you many more data then it's not mandatory that which algorithm you use. It's called Unreasonable effectiveness of data.
+
+But gathering ok data is very difficult.
+
+So from this we get if we have a lot of data algorithm does not matter.
+
+But gather a huge data is a bit difficult task. We have small or medium datasets so algorithm is matter now a days.
+
+iii -> Non-representative Data
+
+Non-representative data occurs when the data collected does not accurately reflect the broader population or context it is meant to represent.
+
+This often leads to incorrect predictions or conclusions.
+
+For example, if we conduct a survey in Pakistan asking who will win the World Cup, and predict that Pakistan will win simply because it is our home country,
+
+The prediction may be biased. To make an accurate prediction, the survey should include responses from individuals in all countries participating in the World Cup.
+
+This ensures that the data is representative of all the relevant stakeholders, rather than just a partial view.
+
+This is called Sampling Noise. and Sampling biased. Like 200 pakistanis from other countries.
+
+
+iv -> Poor Quality Data.
+
+It's said that if you are woking on a Machine Learning project. You should give 60% time to data . and ther other 40% time to the reamining algorithm.
+
+If our data is not good according to quality wise then our algorithm will not work.
+
+Machine learning algorithm is rely on the data so it's not work.
+
+Poor data means missing values , Double values and also many more.
+
+
+
+v -> Irrelevant Features.
+
+Features means Columns. So consider we have some columns that not contribute in our data analysis. So it's also a problem.
+
+There is a phase : Garbage in  ,    Garbage out.
+
+It means if we put garbage in we will get garbage in the output.
+
+For example: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
