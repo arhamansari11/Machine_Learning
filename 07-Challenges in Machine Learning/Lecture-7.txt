@@ -16,6 +16,11 @@ b -> Web Scrapping
 
 Note: They may issue some error while gathering data from them. It's a difficult task.
 
+
+
+
+
+
 ii -> Insufficient Data / Labeled Data.
 
 Let's Suppoose we have two algorithms working on the same problem but the amout of data is different.
@@ -36,6 +41,12 @@ So from this we get if we have a lot of data algorithm does not matter.
 
 But gather a huge data is a bit difficult task. We have small or medium datasets so algorithm is matter now a days.
 
+
+
+
+
+
+
 iii -> Non-representative Data
 
 Non-representative data occurs when the data collected does not accurately reflect the broader population or context it is meant to represent.
@@ -51,6 +62,13 @@ This ensures that the data is representative of all the relevant stakeholders, r
 This is called Sampling Noise. and Sampling biased. Like 200 pakistanis from other countries.
 
 
+
+
+
+
+
+
+
 iv -> Poor Quality Data.
 
 It's said that if you are woking on a Machine Learning project. You should give 60% time to data . and ther other 40% time to the reamining algorithm.
@@ -63,6 +81,9 @@ Poor data means missing values , Double values and also many more.
 
 
 
+
+
+
 v -> Irrelevant Features.
 
 Features means Columns. So consider we have some columns that not contribute in our data analysis. So it's also a problem.
@@ -71,7 +92,101 @@ There is a phase : Garbage in  ,    Garbage out.
 
 It means if we put garbage in we will get garbage in the output.
 
-For example: 
+For example: Let's suppose you arrange a race. And you have data of so many peoples. You have age , weight , height , fitness etc.
+
+So a fit people can participate in race right? 
+
+Input columns :  Age , Weight , Height , Location.   Location is nothing if we remove it our work should go.
+
+
+
+
+vi -> OverFitting.
+
+If you train a model in the data. And this Machine Learning Model remember the data only but not concept the data. 
+
+Then if we give new data to our model it not works properly. Becuase it's remember the previous data. Then it's called overfitting.
+
+For example: I go to lahore then i go cinema and i watch the movie and the price of the ticket is very costly and I remember that everything in lahore is costly.
+
+Same as in ML model they remember everything and it thinks everyhing is just like that.
+
+
+
+
+
+vii -> UnderFitting.
+
+Underfitting in machine learning is when a model is too simple to understand the patterns in the data.
+
+Resulting in poor performance on both the training and new data. 
+
+It's like trying to solve a complex problem with a basic tool that can't handle the job.
+
+
+
+
+
+viii -> Software Integerations.
+
+When you are working on ML problem the end goal is this model will made a software that's help user to help like recomendation System. Loan default system
+
+The second difficult work is put the ML model in the software as ML model will not work lonely. And it's not very easy work.
+
+In softwares we have different platforms like windows , mac , linux , android.
+
+As ML is popular now a days.
+
+Our model not works properly on previous techs likes JAVA , C++.
+
+Recently TensorFlow launch his Libaray in JS.
+
+The things are not stable now . We have to do a lot of work if we want ML in drowns.
+
+
+
+
+ix -> Ofline Learning
+
+Same as last.
+
+
+
+
+
+x -> Cost Involved
+
+A lot of costs are required like we don't know how our money expand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
