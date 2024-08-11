@@ -2,4 +2,4 @@ Challenges in Machine Learning
 
 i -> Data Collection.
 
-Machine Learning is all about learning from data. So if we have not data where we train our model?
+Machine Learning is all about learning from data. So if we have not data how we train our model?
