@@ -1,1 +1,101 @@
-Applications of ML
+Applications of Machine Learning
+
+B to B 	Bussiness to Bussiness Example.
+
+
+
+i -> Retail Amazon / Big Bazaar. 
+
+6 CR+ products on Amazon. 
+
+When the sale opens on Amazon. If they give sales on every 6CR+ products. Then they have to increase their products becuase on sale products sale maximum.
+
+So what they do they check the previous sales data and apply machine learning algorithm on it and then filter out the products.
+
+Let's suppse you go to the any mall like chase up and you purchase some products then give you their number.
+
+Now you purchase health related products. or maybe electronics products.
+
+Then these companies sell your number to gym or maybe watches seller.
+
+1 lakh phone numbers and 100 phone numbers worth it. It's called B to B.
+
+Baby Diaper , bear like setting of the products on Mall.
+
+Machine Learning is the key factor in e-commerce.
+
+
+
+ii -> Banking / Finance
+
+Promotion plans , where we open the banks etc.
+
+Let's suppose you want to take loan from bank. So the ML algorithm compare your profile with the previous defaulters profile. 
+
+If your accuracy comes higher not give me loan otherwise give loan.
+
+
+
+
+
+iii -> Transport. / Uber
+
+Your paying rate is highness from 8am to 8pm but in night it would be half.
+
+Let's suppse if your price is 100 it will charge 300.
+
+Prices are higher due to increase demand. Customers are high and busses are low.
+
+
+
+
+iv -> Manufacturing.
+
+Predictive Maintainace. We correct the things when the things get wrong. But in predictive manufacturing we correct the things before wrong.
+
+Like the cars are made by robots so if the robot is not okay the car is not made?
+
+There is a chip in the robots that detect the capacity. The engineers maybe fix the range of chip like if there are below 300 there will be an error in machine.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
