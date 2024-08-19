@@ -1,4 +1,4 @@
 Machine Learning Devlopement Life Cycle (MLDLC)
 
-Steps required in the Machine Learning Life.
+Steps required in the Machine Learning Life Cycle.
  
