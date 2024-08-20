@@ -1,4 +1,111 @@
 Machine Learning Devlopement Life Cycle (MLDLC)
 
-Steps required in the Machine Learning Developement Life Cycle.
- 
+SDLC stands for Software Developement Life Cycle.
+
+If you made a software from starting to end you have to follow this SDLC.
+
+Like how to make software , how to deploy , how to test and everything is in SDLC.
+
+MLDLC is the set of guideline that we have to follow when we are working on any ML Base Project.
+
+In this you will find everything that are required from start of the project to the last. Like it give us complete process.
+
+There are 9 steps of Machine Learning :
+
+
+
+i ->  Framing the Problem.
+
+Firstly we have to analyze the problem. 
+
+->  Like what's the problem? 
+
+->  How I solve it. 
+
+->  How many peoples are needed for that.
+
+->  How many time needed for that
+
+->  May I used Supervized Learning or UnSupervized Learning.
+
+->  How much data I have. and also many more
+
+
+
+
+
+
+
+
+ii ->   Gathering the Data.
+
+Then we have to gather the data from various Resources. Following are some resources where from we gather the data.
+
+->  From API ,    CSV Files ,    Web Scraping ,     From Clusters  ( Usually used for big Data )
+
+->  DataBase (We cannot access the data directly from database becuase error for this we use DV [Data Wear House] ) and also we use ETL (Extract Transform Load.) 
+
+
+
+
+iii ->  Data Prepoccessing.
+
+In simple words Data Preprocessing means we clean the data like there are many errors in our data so firsly we have to clean the data.
+
+There are many errors in our data like:
+
+->  Missing Values in our Data
+
+->  Duplicates Values in our Data
+
+->  Outliers (Like our data are coming from various resources it also cause effects)
+
+->  Scale Values (We have to scale all the values equally like 1 cr or decimal form etc.). Its also called Standarization.
+
+
+
+
+
+
+iv ->  EDA ( Exploratory Data Analysis )  
+
+So from the word Data Analysis its clear that like we have to analyze the input and output relationship.
+
+Like in EDA we have to make so many experiments to know what are in the data like we discover the hidden patterns , relationships and many more.
+
+In this we make :
+
+-> Visulization ( By Plotting Graphs ) 
+
+-> UniVariant ( Like we analysis independly on every columns like what is the mean , mode and what is the curve.) 
+
+-> ByVariant ( In this we analyze two columns at the same time to get the data )
+
+-> MultiVariant ( In this we analyze the multiple columns at the same time to get the data. ) 
+
+So in the whole step we find the core concepts from the data for futher use.
+
+
+
+
+
+v ->  Feature Engineering and Selection.
+
+Inputs are called features so Features are very important because our outputs are depends on the inputs. 
+
+So whats the idea of the feature engineering in this we create some new columns by our own.
+
+For example : 
+
+
+
+
+
+
+
+
+
+
+
+
+
