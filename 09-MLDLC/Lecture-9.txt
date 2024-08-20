@@ -95,7 +95,120 @@ Inputs are called features so Features are very important because our outputs ar
 
 So whats the idea of the feature engineering in this we create some new columns by our own.
 
-For example : 
+For example : We have the data of house and we want to sale the house we have 3 columns :- No of washrooms , No of Bedrooms and location.  
+
+So as we want to sell our house we need only square foots area so we make a new column name Area and there we store square feet of the house and remove other columns.
+
+So there is something called Feature Selection.
+
+Like sometimes we have so many features like 100 200. So at there we not move ahead from these 100 , 200 features.
+
+Becuase first of all all these features never helpful in generating our output. So we have to find those features that not impact our input and remove them.
+
+And the second reason are like 100 200 features take a lot of time. So we need to remove them.
+
+
+
+
+
+
+
+
+vi ->  Model Training , Evaluation and Selection.
+
+So once you are sure about your data like you gather the data , Data Preprocssing and also you do feature engineering and selection on your data.
+
+Then you are almost ready to train your data. Then you gather differents algorithms and  you give the data to these algorithms and train the algorithms on your data.
+
+In this like we check the results of different algorithms and then we decide which algorithm is best for our data.
+
+
+->  Evaluation.
+
+We evaluate all the models. Like 
+
+->  Model Selection.
+
+In model Selection we get 3 or 4 algorithms then we tune their parameters .
+
+What is Parameter?
+
+In simple words parameters are called settings. Like we tune our tv channels according to our need like films first , then news channels etc.
+
+
+
+
+
+
+
+vii ->  Model Deployement 
+
+So now your model is ready to predict . But our work is not over yet we have to deploy it.
+
+So our model may be desktop app, web app or may be mobile app.
+
+So from this model we make a file called binary file like sort a text file. We use different tools to convert that.
+
+Then we convert this file into an API.
+
+
+
+viii -> Testing
+
+We test our model with some trusted customers. If our model works ok we show the changings to all the customer but if it not then we change in the model.
+
+Error may be in data preproccesing , Feature Selection and also many more.
+
+
+
+
+ix -> Optimize
+
+At there we launch our model for all the customers.
+
+After that we perfrom some important steps like:
+
+->  Data Backup
+
+->  Model Backup
+
+->  If our model not works properly what we do all these are covered in that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
