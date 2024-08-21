@@ -172,7 +172,7 @@ After that we perfrom some important steps like:
 
 ->  Model Backup
 
-->  If our model not works properly what we do all these are covered in that.
+->  If our model not works properly what we do we do all these are covered in that.
 
 
 
