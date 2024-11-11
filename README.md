@@ -2,6 +2,10 @@
 
 Welcome to the Machine Learning guide! This README covers essential topics to help you get started with ML. 
 
+## WorkShop on Fundamentals of Machine Learning.
+
+<a href="https://www.facebook.com/iCodeguru/videos/1084182909482818">Fundamentals of Machine Learning.</a>
+
 ## Topics
 
 ### 1. Introduction to Machine Learning
